@@ -1,0 +1,5 @@
+# Ash_Admin Mappings
+
+Ash_Admin.xml         app/etc/modules/Ash_Admin.xml
+code                  app/code/local/Ash/Admin/
+adminhtml/template    app/design/adminhtml/default/ash/template
