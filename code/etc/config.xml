@@ -14,21 +14,9 @@
 <config>
     <modules>
         <Ash_Admin>
-             <version>1.0.0</version>
+             <version>1.0.1</version>
         </Ash_Admin>
     </modules>
-
-    <adminhtml>
-        <!--
-        <layout>
-            <updates>
-                <ash>
-                    <file>ash.xml</file>
-                </ash>
-            </updates>
-        </layout>
-        -->
-    </adminhtml>
 
     <stores>
         <admin>
