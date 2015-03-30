@@ -1,0 +1,16 @@
+{
+    "name": "augustash/ash_admin",
+    "description": "August Ash admin theme modifications",
+    "homepage": "https://github.com/augustash/ash_admin.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pete McWilliams",
+            "email": "pmcwilliams@augustash.com"
+        }
+    ],
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
