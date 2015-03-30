@@ -1,18 +1,11 @@
-Title:  Ash_Admin Extension
-Author: Peter McWilliams  
-Email:  core@augustash.com  
-Date:   September 26, 2012  
-
-# Description
+Description
+===========
 
 This extension adds custom modifications to the administration area theme.
 
 Installation
 ------------
 
-1. Clone module with [modman](https://github.com/colinmollenhour/modman)
-2. Delete all contents of the Magento cache
-
-```
-@copyright  Copyright (c) 2012 August Ash, Inc. (http://www.augustash.com)
-```
+* Install the extension via [Composer](https://getcomposer.org/)
+* Install the extension via [modman](https://github.com/colinmollenhour/modman)
+* You can also [download from Github](https://github.com/augustash/ash_admin/archive/master.zip) and unzip the archive in your project root
